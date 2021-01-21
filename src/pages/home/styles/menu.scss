@@ -1,0 +1,9 @@
+.menu-container{
+  display: flex;
+  justify-content: center;
+  border-bottom-right-radius: 50px;
+  border-bottom-left-radius: 50px;
+  .menu-item{
+    flex: 1;
+  }
+}
